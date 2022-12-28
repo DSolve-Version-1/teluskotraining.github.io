@@ -3,5 +3,12 @@ Hi this is my first github project
 I want to learn Git 
 
 
+Sharpener is a platform where people get their dream jobs easily.
+
+Done my changes
+
+
+
 Final Copy
+
 Thank you
